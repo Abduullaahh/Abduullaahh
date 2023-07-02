@@ -9,7 +9,7 @@ I am learning front end web development using react
 * ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
 * 🧠  I'm learning react
 * 🤝  I'm open to collaborating on Web Development
-* ⚡  I have worked inn C++, C and mySQL
+* ⚡  I have worked in C++, C and mySQL
 
 ### Skills
 
