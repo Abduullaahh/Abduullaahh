@@ -1,7 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdullah Tahir
+Hey there, My name is Abdullah Tahir  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
-
-Junior Web Developer
+Web Developer
 --------------------
 
 I am learning front end web development using react
