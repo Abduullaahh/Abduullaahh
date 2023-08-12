@@ -7,7 +7,7 @@ I am learning front end web development using react
 
 * 🌍  I'm based in Lahore Pakistan
 * ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
-* 🧠  I'm learning react
+* 🧠  I'm learning web development
 * 🤝  I'm open to collaborating on Web Development
 * ⚡  I have worked in C++, C, mySQL, node.js, express.js,react.js
 
