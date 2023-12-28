@@ -40,10 +40,10 @@ I am learning front end web development using react
     <img src="https://img.icons8.com/?size=48&id=hsPbhkOH4FMe&format=png" width="36" height="36" alt="Node.js" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" width="36" height="36" alt="React.js" />
+    <img src="https://img.icons8.com/?size=80&id=wPohyHO_qO1a&format=png" width="36" height="36" alt="React.js" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="<!-- Express.js Icon URL -->" width="36" height="36" alt="Express.js" />
+    <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" width="36" height="36" alt="Express.js" />
   </a>
   <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
