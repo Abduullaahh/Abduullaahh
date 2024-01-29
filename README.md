@@ -43,9 +43,6 @@ I am working on frameworks like React Js and Node Js
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png" width="36" height="36" alt="Express.js" />
   </a>
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
