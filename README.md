@@ -1,15 +1,13 @@
 Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Abdullah Tahir
 ======================================================================================================================================
-Web Developer
---------------------
+<b>Mern Stack Developer<b/>
+I am working on frameworks like React Js and Node Js
 
-I am learning front end web development using react
-
-* 🌍  I'm based in Lahore Pakistan
+* 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
-* 🧠  I'm learning web development
-* 🤝  I'm open to collaborating on Web Development
-* ⚡  I have worked in C++, C, mySQL, node.js, express.js,react.js
+* 🧠  I'm learning technologies related to web development
+* 🤝  I'm open to collaborate on Web Development
+* ⚡  I have worked in C++, C, mySQL, Node.js, Express.js, React.js
 
 ### Skills
 
