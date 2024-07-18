@@ -1,3 +1,5 @@
+<a href="https://github.com/Abduullaahh"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=Abduullaahh&style=flat-square" width="125"/></a>
+
 Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Abdullah Tahir
 ======================================================================================================================================
 <strong>Mern Stack Developer<strong/><br>
