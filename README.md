@@ -11,16 +11,10 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
   <a href="https://github.com/Abduullaahh"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-I am working on frameworks like React Js and Node Js
-
 * 🌍  I'm based in Lahore, Pakistan
 * ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
 * 🧠  I'm learning technologies related to web development
 * 🤝  I'm open to collaborate on Web Development
-* ⚡  I have worked in C++, C, mySQL, Node.js, Express.js, React.js
-
-
-
 
 ## ⚙️ Tools & Technologies Used
 
