@@ -4,16 +4,16 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 ======================================================================================================================================
 <strong>Mern Stack Developer<strong/><br>
 
+* 🌍  I'm based in Lahore, Pakistan
+* 🧠  I'm learning technologies related to web development
+* 🤝  I'm open to collaborate on Web Development
+
 <h2 align="left">🌐 Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/abdullah-tahirrr/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hafizabdullahtahir@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Abduullaahh"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-* 🌍  I'm based in Lahore, Pakistan
-* 🧠  I'm learning technologies related to web development
-* 🤝  I'm open to collaborate on Web Development
 
 ## ⚙️ Tools & Technologies Used
 
