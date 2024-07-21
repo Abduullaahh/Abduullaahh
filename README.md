@@ -12,7 +12,6 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 </p>
 
 * 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [hafizabdullahtahir@gmail.com](mailto:hafizabdullahtahir@gmail.com)
 * 🧠  I'm learning technologies related to web development
 * 🤝  I'm open to collaborate on Web Development
 
