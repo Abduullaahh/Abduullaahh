@@ -48,4 +48,4 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abduullaahh&layout=compact&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abduullaahh&layout=compact&card_width=500&v=2)
