@@ -43,6 +43,10 @@ Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-%000000.svg?&style=for-the-badge&logo=three.js&logoColor=white"/>
+<img alt="Square Payment" src="https://img.shields.io/badge/Square%20Payment-%233D4F6D.svg?&style=for-the-badge&logo=square&logoColor=white"/>
+<img alt="Authentication" src="https://img.shields.io/badge/Authentication-%234C51BF.svg?&style=for-the-badge&logo=auth0&logoColor=white"/>
  </a>
 </p>
 
