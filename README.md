@@ -1,56 +1,65 @@
 <!-- Profile Views -->
 <p align="right">
   <a href="https://github.com/Abduullaahh">
-    <img src="https://komarev.com/ghpvc/?username=Abduullaahh&style=flat-square&color=0e75b6" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Abduullaahh&style=for-the-badge&color=0e75b6" alt="Profile views" />
   </a>
 </p>
 
-<!-- Greeting -->
+<!-- Animated Greeting -->
 <h1 align="center">
-  Hey there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="30" width="30" />, I'm Abdullah Tahir
+  Hi there, I'm <a href="https://github.com/Abduullaahh">Abdullah Tahir</a> 👋
 </h1>
-<h3 align="center">💻 MERN Stack Developer | 🌍 Based in Lahore, Pakistan</h3>
+<h3 align="center">💻 MERN Stack Developer | 🌍 Lahore, Pakistan</h3>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **advanced web development** technologies  
-- 🤝 Open to collaborate on **innovative web projects**  
-- 💡 Passionate about building **scalable, user-friendly applications**  
+### ✨ About Me
+🚀 Passionate about creating **full-stack web apps** that are both functional and beautiful.  
+📚 Constantly exploring **modern JavaScript frameworks** and **backend technologies**.  
+🤝 Excited to **collaborate** on impactful projects and **open-source contributions**.  
 
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-tahirrr/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hafizabdullahtahir@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Abduullaahh">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,graphql,js,ts,html,css,bootstrap,materialui,tailwind,git,github,python,c,cpp,mongodb,mysql,postgres,sqlite,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,graphql,js,ts,html,css,bootstrap,tailwind,materialui,git,github,python,c,cpp,mongodb,mysql,postgres,sqlite,ubuntu" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abduullaahh&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduullaahh&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abduullaahh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abduullaahh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abduullaahh&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduullaahh&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing!;Always+Learning+New+Things;Open+To+Collaboration+%26+Opportunities" alt="Typing animation" />
 </p>
