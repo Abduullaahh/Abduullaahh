@@ -58,7 +58,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abduullaahh&theme=tokyo-night&hide_border=true" />
 </p>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0891B2&center=true&vCenter=true&width=500&lines=Let's+Build+Something+Amazing!;Always+Learning+New+Things;Open+To+Collaboration+%26+Opportunities" alt="Typing animation" />
